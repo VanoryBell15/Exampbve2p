@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.example.examen2auth.databinding.ActivityMainBinding
 import com.google.firebase.auth.FirebaseAuth
 
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
