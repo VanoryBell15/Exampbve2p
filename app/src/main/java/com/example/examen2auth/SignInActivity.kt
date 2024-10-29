@@ -10,6 +10,7 @@ import com.google.firebase.auth.FirebaseAuth
 
 class SignInActivity : AppCompatActivity() {
 
+
     // Variables para el enlace de vista (View Binding) y la autenticación de Firebase
     private lateinit var binding: ActivitySignInBinding
     private lateinit var firebaseAuth: FirebaseAuth
