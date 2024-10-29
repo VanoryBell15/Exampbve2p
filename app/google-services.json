@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448304812831",
+    "project_id": "exam2auth",
+    "storage_bucket": "exam2auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448304812831:android:c565e6b3ff499e5914162a",
+        "android_client_info": {
+          "package_name": "com.example.examen2auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5sd_p3bRlB--ERrhYhMkmLCQYT6zfcv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
